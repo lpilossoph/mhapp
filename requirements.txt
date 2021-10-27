@@ -8,7 +8,7 @@ dash-html-components==0.15.0
 dash-renderer==0.22.0
 dash-table==3.6.0
 dash-table-experiments==0.6.0
-dask==1.1.4
+dask==2021.10.0
 Flask==1.0.2
 Flask-Compress==1.4.0
 heroku3==3.4.0
